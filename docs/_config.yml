@@ -1,20 +1,16 @@
-title: ZTronics Arduino Tutorials
-description: ESP32, MPU6050 and Arduino tutorials
+title: ZTronics
+description: ESP32 and Arduino Tutorials
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
 
 url: "https://ztronics.github.io"
 baseurl: "/esp32-mpu6050-snake"
 
-color_scheme: dark
+minimal_mistakes_skin: "dark"
 
-search_enabled: true
+search: true
 
-heading_anchors: true
-
-back_to_top: true
-
-enable_copy_code_button: true
+logo: "/assets/images/logo.png"
