@@ -1,24 +1,41 @@
-# ESP32 Snake Game Controlled by MPU6050
+title: ESP32 MPU6050 Snake Game
+description: Motion controlled Snake game using ESP32, MPU6050 gyroscope, and SSD1306 OLED display.
+theme: just-the-docs
 
-Control a Snake game using motion gestures with ESP32, MPU6050 gyroscope, and SSD1306 OLED display.
+url: "https://TEUUSER.github.io"
+baseurl: "/esp32-mpu6050-snake"
 
-## Features
+color_scheme: dark
 
-- Motion controls
-- OLED graphics
-- ESP32 based
-- Arduino IDE compatible
+search_enabled: true
 
-## Hardware
+heading_anchors: true
 
-- ESP32
-- MPU6050
-- SSD1306 OLED
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/TEUUSER/esp32-mpu6050-snake"
 
-## Wiring
+footer_content: "ESP32 MPU6050 Project Documentation"
 
-Coming soon.
+nav_enabled: true
 
-## Source Code
+back_to_top: true
+back_to_top_text: "Back to top"
 
-Available in this repository.
+enable_copy_code_button: true
+
+last_edit_timestamp: true
+last_edit_time_format: "%d %b %Y"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  note:
+    title: Note
+    color: blue
+
+  tip:
+    title: Tip
+    color: green
