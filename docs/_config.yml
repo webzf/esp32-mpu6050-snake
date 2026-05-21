@@ -1,0 +1,3 @@
+theme: minima
+title: ESP32 Snake Game
+description: MPU6050 motion controlled snake game using ESP32
