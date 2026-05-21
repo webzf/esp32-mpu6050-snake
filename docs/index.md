@@ -23,7 +23,7 @@ This website focuses on:
 
 ## MPU6050 Guides
 
-- [MPU6050 Arduino Guide](mpu6050-arduino-guide.md)
+- [MPU6050 Arduino Guide](_post/mpu6050-arduino-guide.md)
 - [MPU6050 Calibration Tutorial](mpu6050-calibration.md)
 - [ESP32 MPU6050 Projects](esp32-mpu6050.md)
 
