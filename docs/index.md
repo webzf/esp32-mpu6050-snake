@@ -41,12 +41,26 @@ It communicates with Arduino using the I2C protocol.
 
 # Required Hardware
 
-| Component | Description |
+| Component | Link |
 |---|---|
-| Arduino Uno or Nano | Main microcontroller |
-| MPU6050 Sensor | Accelerometer + gyroscope |
-| Breadboard | Optional |
-| Jumper wires | For connections |
+| MPU6050 Sensor | [Recommended MPU6050 Module](https://YOUR-AFFILIATE-LINK.com) |
+| Arduino Uno | [Compatible Arduino Uno Board](https://YOUR-AFFILIATE-LINK.com) |
+| Arduino Nano | [Arduino Nano for Compact Projects](https://YOUR-AFFILIATE-LINK.com) |
+| SSD1306 OLED Display | [OLED Display Used in This Project](https://YOUR-AFFILIATE-LINK.com) |
+| Jumper Wires | [Male to Female Jumper Wires](https://YOUR-AFFILIATE-LINK.com) |
+| Breadboard | [Breadboard for Arduino Projects](https://YOUR-AFFILIATE-LINK.com) |
+
+---
+
+# Components Used in This Build
+
+This MPU6050 Arduino project was tested using the following components:
+
+- [MPU6050 Sensor Module](https://YOUR-AFFILIATE-LINK.com)
+- [Arduino Uno R3](https://YOUR-AFFILIATE-LINK.com)
+- [SSD1306 I2C OLED Display](https://YOUR-AFFILIATE-LINK.com)
+
+These components are beginner-friendly and work well for motion tracking projects, gesture control systems, and Arduino games.
 
 ---
 
@@ -182,6 +196,12 @@ For more accurate readings:
 - Use calibration offsets
 - Avoid unstable power supplies
 
+You can also create advanced motion tracking projects using:
+
+- [ESP32 Development Boards](https://YOUR-AFFILIATE-LINK.com)
+- [Portable Battery Modules](https://YOUR-AFFILIATE-LINK.com)
+- [Larger OLED Displays](https://YOUR-AFFILIATE-LINK.com)
+
 ---
 
 # Common Problems
@@ -226,24 +246,34 @@ You can use MPU6050 for:
 
 ---
 
-# GitHub Source Code
+# Recommended Starter Kits
 
-Complete Arduino code and future updates are available in the GitHub repository.
+If you are starting with Arduino and sensors, these kits are useful:
 
-You can also expand this project with:
-- OLED displays
-- ESP32 boards
-- Wireless control
-- Motion-based games
+- [Arduino Starter Kit with Sensors](https://YOUR-AFFILIATE-LINK.com)
+- [ESP32 Development Board Kit](https://YOUR-AFFILIATE-LINK.com)
+- [Electronics Breadboard Kit](https://YOUR-AFFILIATE-LINK.com)
 
 ---
 
-# Related Guides
+# GitHub Source Code
 
-- MPU6050 Calibration Guide
-- ESP32 MPU6050 Tutorial
-- SSD1306 OLED Guide
-- I2C Scanner Tutorial
+The complete MPU6050 Arduino code is available in this repository.
+
+You can also expand this project using:
+
+- [ESP32 Boards for Wireless Projects](https://YOUR-AFFILIATE-LINK.com)
+- [Larger OLED Displays](https://YOUR-AFFILIATE-LINK.com)
+- [Battery Modules for Portable Builds](https://YOUR-AFFILIATE-LINK.com)
+
+---
+
+# Related Tutorials
+
+- [MPU6050 Calibration Guide](mpu6050-calibration.md)
+- [ESP32 MPU6050 Tutorial](esp32-mpu6050.md)
+- [SSD1306 OLED Guide](ssd1306-oled-guide.md)
+- [I2C Scanner Tutorial](i2c-scanner.md)
 
 ---
 
